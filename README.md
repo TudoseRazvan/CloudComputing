@@ -7,7 +7,7 @@ Aplicatie web care redacteaza emailuri cu ajutorul AI si le trimite.
 | | |
 |---|---|
 | Demo | https://cloud-computing-puce.vercel.app |
-| Video prezentare | — |
+| Video prezentare | https://youtu.be/R3moPRWlFMY |
 
 ---
 
